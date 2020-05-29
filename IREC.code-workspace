@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"githubPullRequests.remotes": [
+			"https://github.com/ederalmeida/irec.git",
+			"upstream"
+		]
+	}
+}
