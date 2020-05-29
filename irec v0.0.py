@@ -1,12 +1,22 @@
 # IREC - Importar Relatórios de Empresas via CVM
 
 ###############################################################################
+# MASTER TODO E DECISÕES
+###############################################################################
+# O que eu quero que esse software tenha (com o tempo foi apagando esse sessao)
+# 
+
+# DECISÕES
+# - carregar as informações coletadas nos CSV em um banco de dados SQLite3
+
+###############################################################################
 # IMPORTS
 ###############################################################################
 
 import requests
 import os
 import zipfile as zf
+import sqlite3 as sql
 
 ###############################################################################
 # Funções
